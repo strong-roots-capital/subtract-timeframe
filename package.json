@@ -1,6 +1,6 @@
 {
   "name": "@strong-roots-capital/subtract-timeframe",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Decrement date by timeframe",
   "main": "dist/src/subtract-timeframe.js",
   "types": "dist/src/subtract-timeframe.d.ts",
